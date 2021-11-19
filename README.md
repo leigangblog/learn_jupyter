@@ -187,4 +187,4 @@ DMind
 ![通过输入错误的参数值查看参数列表](./images/4.png)
 
 # 学习jupyter示例
-[学习jupyter示例](https://github.com/leigangblog/learn_jupyter/learn_jupyter.ipynb)
+[学习jupyter示例](https://github.com/leigangblog/learn_jupyter/blob/main/learn_jupyter.ipynb)
